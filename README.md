@@ -85,7 +85,7 @@ Typo fixes, broken-link reports, and clarity suggestions are welcome. See [CONTR
 
 - 📖 Read online: [missionbuilt.io](https://missionbuilt.io)
 - 🐙 Source: [github.com/missionbuilt/missionbuilt-book](https://github.com/missionbuilt/missionbuilt-book)
-- ✍️ Author: [H. Michael Nichols](https://www.linkedin.com/in/hmichaelnichols)
+- ✍️ Author: [Mike Nichols](https://www.linkedin.com/in/hmikenichols)
 ---
 
 *Mission first. People always. Now go build it.*
