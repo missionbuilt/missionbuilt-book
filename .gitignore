@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment — never commit
+.env
+.env.*
+
+# Cowork drops delivered files here — scratch, not source.
+Claude outputs/
+
+# Working drafts kept locally
+editorial/
