@@ -6,6 +6,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ---
 
+## [2.1] — 2026-09 (Second Edition, Revised)
+
+Same book, same structure, same examples. The prose is Mike's again.
+
+### Changed
+
+- **Voice restored throughout.** The v2 line edit had chopped the prose into fragments, single-sentence "emphasis" paragraphs, and slogan pairs, against the author's actual cadence. Every chapter and the front matter were revised against the updated `mike-nichols-voice` skill: fragment stacks rejoined into flowing sentences, lone-line paragraphs folded back in, one crystallizing line per section at most, em dashes removed from prose, corporate and AI-flavored words replaced, generic roles no longer gendered. Mean sentence length roughly 9 → 16 words; sentences of four words or fewer 24% → 9%.
+- **Pull quotes** cut by more than half, at most one per section.
+- **Edition label** on the title page is now *Second Edition, Revised · 2026*. Editions are about content and versions are about text; nothing was added or removed, so this is a point release, not a third edition.
+- **A Note on the Second Edition** now addresses early second-edition readers, explains the revision in one paragraph, and drops the "about ten pages shorter" line.
+- **Chapter 8** names both deployed Combined Air Operations Centers (Prince Sultan Air Base, Saudi Arabia; Al Udeid Air Base, Qatar) so they are not confused with the CAOC at Nellis in the prologue. "The soldiers downrange" replaces "my brothers in arms."
+- **Chapter 10** customer quote reworded to how a customer talks: *"Wait, I just get the endpoint too? For what I'm already paying?"*
+- **Chapter 13** boardroom close rewritten to land on the user as a person ("...ship faster to people you stopped seeing"); "stay lovable enough" was a stray and is gone.
+
+### Not changed
+
+- No example, story, name, number, quotation, heading, list, or citation was added or removed. Sources, license, and the Loadout are untouched.
+
+### Editorial
+
+- New `editorial/v2.1/` (local, not committed): the full voice review, the rewrite brief used for the pass, and `voice_diagnostics.py`, a script that measures the drift patterns per chapter.
+
+---
+
 ## [2.0] — 2026-05
 
 The second edition. Same backbone. New chapter. Tighter prose.

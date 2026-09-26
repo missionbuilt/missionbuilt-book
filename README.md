@@ -2,7 +2,7 @@
 
 ### A Field Guide for Building Things That Matter
 
-By Mike Nichols • Second Edition • 2026
+By Mike Nichols • Second Edition, Revised • 2026
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![Read online](https://img.shields.io/badge/read-missionbuilt.io-1f6feb.svg)](https://missionbuilt.io)
 
@@ -58,6 +58,8 @@ This repository is the open-source source-of-truth for the manuscript. Read it h
 ## 🆕 What changed in the second edition
 
 See [CHANGELOG.md](CHANGELOG.md) for the full list. Highlights:
+
+- **2.1 (revised text):** the prose was restored to the author's own voice after the first second-edition edit flattened it. No content changed.
 
 - New chapter: **AI Is the New OS** (Chapter 13).
 - New front-matter note: **A Note on the Second Edition.**

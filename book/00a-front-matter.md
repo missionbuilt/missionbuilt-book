@@ -4,7 +4,7 @@
 
 ### Mike Nichols
 
-*Second Edition · 2026*
+*Second Edition, Revised · 2026*
 
 ---
 
